@@ -28,4 +28,5 @@ Contact : iisavage684@gmail.com
 <a href="https://github.com/Savagefundzokenwa/ULTRON"><img title="ULTRON" src="https://github-readme-stats.vercel.app/api/pin/?username=Savagefundzokenwa&repo=ULTIMATE&theme=vision-friendly-dark"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savagefundzokenwa&layout=compact" alt="Top language">
 
-<img src="https://github.com/Savagefundzokenwa/Savagefundzokenwa/blob/img/fea72fd4-e260-4c13-b89e-f81acc5111a0.gif" width="450" height="914" align="left">
+<![template_s](https://github.com/SavageFundz/Savagefundzokenwa/blob/master/img/wallpaperbetter_(1).jpg)
+
