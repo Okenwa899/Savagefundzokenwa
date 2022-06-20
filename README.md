@@ -1,4 +1,4 @@
-<img src="https://github.com/Savagefundzokenwa/Savagefundzokenwa/blob/img/WhatsApp Business/Media/WhatsApp Business Profile Photos/ +234 812 786 7835 20220620_092606.jpg" width="480" height="480" align="left">
+<img src="https://github.com/Savagefundzokenwa/Savagefundzokenwa/blob/img/ +234 812 786 7835 20220620_092606.jpg" width="480" height="480" align="left">
 <center>
 
 
